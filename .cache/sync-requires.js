@@ -5,12 +5,12 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/richardsando/webDev/gatsby/master-gatsby/starter-files/gatsby/.cache/dev-404-page.js"))),
-  "component---src-pages-404-js": hot(preferDefault(require("/Users/richardsando/webDev/gatsby/master-gatsby/starter-files/gatsby/src/pages/404.js"))),
-  "component---src-pages-beers-js": hot(preferDefault(require("/Users/richardsando/webDev/gatsby/master-gatsby/starter-files/gatsby/src/pages/beers.js"))),
-  "component---src-pages-index-js": hot(preferDefault(require("/Users/richardsando/webDev/gatsby/master-gatsby/starter-files/gatsby/src/pages/index.js"))),
-  "component---src-pages-order-js": hot(preferDefault(require("/Users/richardsando/webDev/gatsby/master-gatsby/starter-files/gatsby/src/pages/order.js"))),
-  "component---src-pages-pizzas-js": hot(preferDefault(require("/Users/richardsando/webDev/gatsby/master-gatsby/starter-files/gatsby/src/pages/pizzas.js"))),
-  "component---src-pages-slicemasters-js": hot(preferDefault(require("/Users/richardsando/webDev/gatsby/master-gatsby/starter-files/gatsby/src/pages/slicemasters.js")))
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/home/richard/web/gatsby/master-gatsby/starter-files/master-gatsby-frontend/.cache/dev-404-page.js"))),
+  "component---src-pages-404-js": hot(preferDefault(require("/home/richard/web/gatsby/master-gatsby/starter-files/master-gatsby-frontend/src/pages/404.js"))),
+  "component---src-pages-beers-js": hot(preferDefault(require("/home/richard/web/gatsby/master-gatsby/starter-files/master-gatsby-frontend/src/pages/beers.js"))),
+  "component---src-pages-index-js": hot(preferDefault(require("/home/richard/web/gatsby/master-gatsby/starter-files/master-gatsby-frontend/src/pages/index.js"))),
+  "component---src-pages-order-js": hot(preferDefault(require("/home/richard/web/gatsby/master-gatsby/starter-files/master-gatsby-frontend/src/pages/order.js"))),
+  "component---src-pages-pizzas-js": hot(preferDefault(require("/home/richard/web/gatsby/master-gatsby/starter-files/master-gatsby-frontend/src/pages/pizzas.js"))),
+  "component---src-pages-slicemasters-js": hot(preferDefault(require("/home/richard/web/gatsby/master-gatsby/starter-files/master-gatsby-frontend/src/pages/slicemasters.js")))
 }
 
